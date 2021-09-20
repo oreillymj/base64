@@ -1,6 +1,0 @@
-go mod init example.com/base64
-
-https://gobyexample.com/base64-encoding
-
-https://gobyexample.com/command-line-arguments
-
